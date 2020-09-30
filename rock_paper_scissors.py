@@ -74,7 +74,7 @@ def interface():
         interface()
 
 
-def main(): #main execution of code starts hear
+def main(): #main execution of code starts from hear
     global platform
     global points
     points = [0, 0]
