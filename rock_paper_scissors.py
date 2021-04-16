@@ -23,7 +23,7 @@ def clear():
 def choose():
 	global choice
 	global choices
-	choices = ["1","2","3"]
+	choices = ("1","2","3")
 	choice = random.choice(choices)
 
 def check(inpt):
